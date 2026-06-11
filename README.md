@@ -26,6 +26,27 @@ graph TD
 
 ---
 
+## 📊 Dashboard Visuals
+
+Here are screenshots of the interactive Power BI dashboard:
+
+### 1. Top 5 Cryptocurrencies Overview
+Features session high/low trackers, live update timestamps, total asset mass, and a price history chart tracking the top 5 assets (BNB, BTC, ETH, USDC, USDT).
+
+![Top 5 Overview](assets/dashboard_top5_overview.jpg)
+
+### 2. Market Cap Share & AI Sentiment Outlook
+Displays real-time price change percentages, AI-analyzed sentiment, and a treemap highlighting market cap dominance across assets.
+
+![Market Cap and Sentiment](assets/dashboard_sentiment_and_marketcap.jpg)
+
+### 3. Filtered Asset View (e.g., BTC)
+Demonstrates the interactive filtering capabilities of the dashboard, focusing on single-asset metrics and price movement trends.
+
+![BTC Filtered View](assets/dashboard_btc_filtered.jpg)
+
+---
+
 ## 📂 Project Repository Structure
 *   [crypto_Terminal_dashboard.ipynb](file:///c:/Users/raman/OneDrive/Documents/CRYPTO%20DASHBOARD%20TERMINAL/crypto_Terminal_dashboard.ipynb): The Jupyter Notebook orchestrating the ETL pipeline.
 *   [CRYPTO TERMINAL DASHBOARD.sql](file:///c:/Users/raman/OneDrive/Documents/CRYPTO%20DASHBOARD%20TERMINAL/CRYPTO%20TERMINAL%20DASHBOARD.sql): SQL schema initialization script.
